@@ -1,8 +1,6 @@
 # Backend
 backend/.env
 backend/db.sqlite3
-backend/data/
-backend/media/
 backend/staticfiles/
 __pycache__/
 *.pyc

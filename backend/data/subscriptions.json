@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ede02883-5c2d-4738-bde5-c723e6b696b2",
+    "user_id": "2facb7a0-9179-4919-9a50-44b184062b14",
+    "plan": {
+      "id": 2,
+      "name": "Professional",
+      "price": "29.99",
+      "interval": "monthly",
+      "features": [
+        "Unlimited Projects",
+        "Advanced Analytics",
+        "Priority Support",
+        "50 GB Storage",
+        "API Access",
+        "Custom Integrations"
+      ]
+    },
+    "status": "cancelled",
+    "current_period_start": "2026-05-20T20:08:39.704431",
+    "current_period_end": "2026-06-19T20:08:39.704431",
+    "cancel_at_period_end": true,
+    "created_at": "2026-05-20T20:08:39.704431"
+  },
+  {
+    "id": "48e7eed0-814b-462e-8e83-d8a27d154924",
+    "user_id": "2facb7a0-9179-4919-9a50-44b184062b14",
+    "plan": {
+      "id": 6,
+      "name": "Business",
+      "price": "999.00",
+      "interval": "monthly",
+      "features": [
+        "Everything in Pro",
+        "Dedicated Manager",
+        "Unlimited Storage",
+        "SSO & SAML",
+        "24/7 Phone Support",
+        "Custom SLA"
+      ]
+    },
+    "status": "cancelled",
+    "current_period_start": "2026-05-20T20:12:18.592145",
+    "current_period_end": "2026-06-19T20:12:18.592145",
+    "cancel_at_period_end": false,
+    "created_at": "2026-05-20T20:12:18.592145"
+  },
+  {
+    "id": "ac5b491b-43de-47e8-817b-f5c3d764d7e3",
+    "user_id": "2facb7a0-9179-4919-9a50-44b184062b14",
+    "plan": {
+      "id": 5,
+      "name": "Pro",
+      "price": "499.00",
+      "interval": "monthly",
+      "features": [
+        "Unlimited Projects",
+        "Advanced Analytics",
+        "Priority Support",
+        "50 GB Storage",
+        "API Access",
+        "Custom Integrations"
+      ]
+    },
+    "status": "cancelled",
+    "current_period_start": "2026-05-20T20:13:59.850191",
+    "current_period_end": "2026-06-19T20:13:59.850191",
+    "cancel_at_period_end": false,
+    "created_at": "2026-05-20T20:13:59.850191"
+  },
+  {
+    "id": "8343c221-c642-4f8d-8c4a-44bf57137397",
+    "user_id": "2facb7a0-9179-4919-9a50-44b184062b14",
+    "plan": {
+      "id": 5,
+      "name": "Pro",
+      "price": "499.00",
+      "interval": "monthly",
+      "features": [
+        "Unlimited Projects",
+        "Advanced Analytics",
+        "Priority Support",
+        "50 GB Storage",
+        "API Access",
+        "Custom Integrations"
+      ]
+    },
+    "status": "cancelled",
+    "current_period_start": "2026-05-20T20:15:45.690422",
+    "current_period_end": "2026-06-19T20:15:45.690422",
+    "cancel_at_period_end": true,
+    "created_at": "2026-05-20T20:15:45.690422"
+  }
+]
